@@ -7,7 +7,7 @@ An image in Figma is actually a shape (typically a rectangle) with an image fill
 
 ## License
 
-© 2019 Mike Gowen
+© 2025 Mike Gowen
 
 MIT License
 
